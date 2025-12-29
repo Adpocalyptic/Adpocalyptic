@@ -1,11 +1,6 @@
----
-permalink: /README.html
-layout: none
----
-{% include_relative README.md %}
 
-
-## Hi there, I'm Adpocalyptic (Also known as Ad) 👋 
+ 
+ ## Hi there, I'm Adpocalyptic (Also known as Ad) 👋 
  
  [https://adpocalyptic.github.io/Adpocalyptic](https://adpocalyptic.github.io/Adpocalyptic) 
   
