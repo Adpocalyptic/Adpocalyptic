@@ -8,8 +8,11 @@
   
  [https://linktr.ee/Adpocalyptic](https://linktr.ee/Adpocalyptic) 
   
- <img width="1024" height="1024" alt="horn jpg" src="https://github.com/user-attachments/assets/73949d9a-0840-4fb2-ab8a-7f8009b5d037" /> 
   
+ 
+  <img width="1010" height="1010" alt="Adpoc-gigapixel-redefine-1010w" src="https://github.com/user-attachments/assets/10b599fb-f56b-4981-a696-0650b2ac3df4" /> 
+		 <img width="1024" height="1024" alt="horn jpg" src="https://github.com/user-attachments/assets/73949d9a-0840-4fb2-ab8a-7f8009b5d037" />
+
  
  
 <!--
