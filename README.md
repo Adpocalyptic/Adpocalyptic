@@ -6,7 +6,7 @@
   
  [https://Gravatar.com/adpocalyptic](https://Gravatar.com/adpocalyptic)  
   
- [https://linktr.ee/Adpocalyptic](https://linktr.ee/Adpocalyptic) 
+ [https://Linktr.ee/Adpocalyptic](https://Linktr.ee/Adpocalyptic) 
   
  [https://Adpocalyptic.github.io/Adpocalyptic](https://Adpocalyptic.github.io/Adpocalyptic)  
  
