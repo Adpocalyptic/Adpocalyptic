@@ -2,7 +2,7 @@
     
  ## Hi there, I'm Adpocalyptic™ 👋 (Also known as Ad - Formerly known as Dasein)   
   
- [https://Adpocalyptic.neocities.org/about](https://adpocalyptic.neocities.org/about)   
+ [https://Adpocalyptic.neocities.org/](https://adpocalyptic.neocities.org/)   
   
  [https://Gravatar.com/adpocalyptic](https://Gravatar.com/adpocalyptic)  
   
