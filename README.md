@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-, 
+
     
  ## Hi there, I'm Adpocalyptic™ 👋 (Also known as Ad - Formerly known as Dasein)   
   
